@@ -1,0 +1,5 @@
+discord_webhook
+time
+requests
+colorama
+json
